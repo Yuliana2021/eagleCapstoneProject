@@ -1,0 +1,645 @@
+2021-08-08 23:21:38,413 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-08-08 23:21:45,194 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:21:45,835 - logger_File -INFO - User clicked on desktop tab
+2021-08-08 23:21:49,601 - logger_File -INFO - User clicked on Show all desktops
+2021-08-08 23:21:50,015 - logger_File -INFO - All items are displayed
+2021-08-08 23:21:50,719 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-08-08 23:21:50,726 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-08-08 23:21:54,604 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:21:55,236 - logger_File -INFO - User clicked on desktop tab
+2021-08-08 23:21:56,714 - logger_File -INFO - User clicked on Show all desktops
+2021-08-08 23:21:58,860 - logger_File -INFO - User clicked ADD TO CART option on HPLP3065 
+2021-08-08 23:21:59,478 - logger_File -INFO - User selected quantity 1
+2021-08-08 23:21:59,870 - logger_File -INFO - User clicked add to Cart button
+2021-08-08 23:22:00,269 - logger_File -INFO - User can see a succes message for adding HPLP3065
+2021-08-08 23:22:01,132 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-08-08 23:22:01,138 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-08-08 23:22:04,646 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:22:05,158 - logger_File -INFO - User clicked on desktop tab
+2021-08-08 23:22:05,912 - logger_File -INFO - User clicked on Show all desktops
+2021-08-08 23:22:10,250 - logger_File -INFO - User clicked ADD TO CART option on Canon EOS5D
+2021-08-08 23:22:11,036 - logger_File -INFO - User select red color from dropdown
+2021-08-08 23:22:11,739 - logger_File -INFO - User selected quantity 1
+2021-08-08 23:22:12,292 - logger_File -INFO - User clicked add to Cart buttonCanon
+2021-08-08 23:22:12,751 - logger_File -INFO - should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!
+2021-08-08 23:22:13,492 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-08-08 23:22:13,499 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-08-08 23:22:16,995 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:22:17,563 - logger_File -INFO - User clicked on desktop tab
+2021-08-08 23:22:18,350 - logger_File -INFO - User clicked on Show all desktops
+2021-08-08 23:22:19,757 - logger_File -INFO - User clicked on Canon EOS 5D item
+2021-08-08 23:22:20,168 - logger_File -INFO - User clicked write a review link
+2021-08-08 23:22:20,800 - logger_File -INFO - User filled the review field
+2021-08-08 23:22:21,273 - logger_File -INFO - User clicked on continue button4
+2021-08-08 23:22:21,319 - logger_File -INFO - User can a success message
+2021-08-08 23:22:22,109 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-08-08 23:23:13,657 - logger_File -INFO - Scenario User verify currency values change Started
+2021-08-08 23:23:19,199 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:23:19,853 - logger_File -INFO - User clicked on currency
+2021-08-08 23:23:20,633 - logger_File -INFO - User selected Euro currency
+2021-08-08 23:23:20,967 - logger_File -INFO - Currency value is changed to Euro
+2021-08-08 23:23:22,224 - logger_File -INFO - User verify currency values change   passed
+2021-08-08 23:23:22,231 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2021-08-08 23:23:25,702 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:23:26,206 - logger_File -INFO - User clicked on shopping cart1
+2021-08-08 23:23:26,514 - logger_File -INFO - User see 'Your shopping cart is empty!' message on display
+2021-08-08 23:23:27,223 - logger_File -INFO - User empty Shopping cart message displays   passed
+2021-08-08 23:23:49,450 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-08-08 23:23:54,991 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:23:55,561 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:23:56,426 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:23:58,791 - logger_File -INFO - User click on MacBook item
+2021-08-08 23:23:59,394 - logger_File -INFO - User click add to Cart Macbutton
+2021-08-08 23:23:59,873 - logger_File -INFO - Success: you have added MacBook to your Shopping cart! is diplayed
+2021-08-08 23:24:04,332 - logger_File -INFO - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-08-08 23:24:04,735 - logger_File -INFO - User click on cart option
+2021-08-08 23:24:05,137 - logger_File -INFO - User clicked on remove button
+2021-08-08 23:24:05,495 - logger_File -INFO - The item is removed
+2021-08-08 23:24:06,364 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-08-08 23:24:06,372 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:24:10,080 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:24:10,611 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:24:11,844 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:24:12,309 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:24:23,222 - logger_File -INFO - Product Comparison   failed
+2021-08-08 23:24:23,230 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-08 23:24:28,071 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:24:28,608 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:24:29,950 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:24:30,344 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-08 23:24:31,196 - logger_File -INFO - Adding an item to Wish list   failed
+2021-08-08 23:24:31,204 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-08 23:24:34,866 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:24:35,394 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:24:36,234 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:24:38,070 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-08-08 23:24:38,471 - logger_File -INFO - User see the price tag present on UI
+2021-08-08 23:24:39,261 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-08-08 23:40:19,793 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:40:26,129 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:40:26,742 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:40:27,645 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:40:28,132 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:40:38,973 - logger_File -INFO - Product Comparison   failed
+2021-08-08 23:41:32,687 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:41:37,925 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:41:38,696 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:41:39,608 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:41:40,230 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:41:51,162 - logger_File -INFO - Product Comparison   failed
+2021-08-08 23:43:10,725 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:43:16,622 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:43:17,310 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:43:18,329 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:43:18,793 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:43:29,624 - logger_File -INFO - Product Comparison   failed
+2021-08-08 23:47:01,197 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:47:07,108 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:47:07,828 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:47:12,144 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:47:12,693 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:47:13,170 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-08 23:47:13,559 - logger_File -INFO - Success: You have added MacBook Air to your product comparison! is diplayed
+2021-08-08 23:47:14,257 - logger_File -INFO - User click on Product comparison link
+2021-08-08 23:47:14,577 - logger_File -INFO - User see Product Comparison Chart
+2021-08-08 23:47:15,287 - logger_File -INFO - Product Comparison   passed
+2021-08-08 23:47:49,206 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-08-08 23:47:54,191 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:47:54,841 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:47:55,779 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:47:57,220 - logger_File -INFO - User click on MacBook item
+2021-08-08 23:47:57,736 - logger_File -INFO - User click add to Cart Macbutton
+2021-08-08 23:47:58,187 - logger_File -INFO - Success: you have added MacBook to your Shopping cart! is diplayed
+2021-08-08 23:48:02,603 - logger_File -INFO - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-08-08 23:48:02,971 - logger_File -INFO - User click on cart option
+2021-08-08 23:48:03,328 - logger_File -INFO - User clicked on remove button
+2021-08-08 23:48:03,719 - logger_File -INFO - The item is removed
+2021-08-08 23:48:04,613 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-08-08 23:48:04,620 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:48:09,067 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:48:09,643 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:48:13,459 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:48:13,854 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:48:14,288 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-08 23:48:14,593 - logger_File -INFO - Success: You have added MacBook Air to your product comparison! is diplayed
+2021-08-08 23:48:15,145 - logger_File -INFO - User click on Product comparison link
+2021-08-08 23:48:15,373 - logger_File -INFO - User see Product Comparison Chart
+2021-08-08 23:48:16,720 - logger_File -INFO - Product Comparison   passed
+2021-08-08 23:48:16,726 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-08 23:48:20,489 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:48:21,060 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:48:25,141 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:48:25,550 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-08 23:48:30,399 - logger_File -INFO - Adding an item to Wish list   failed
+2021-08-08 23:48:30,406 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-08 23:48:34,228 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:48:34,884 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:48:36,591 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:48:38,461 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-08-08 23:48:38,834 - logger_File -INFO - User see the price tag present on UI
+2021-08-08 23:48:43,586 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-08-08 23:52:11,231 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-08 23:52:16,890 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:52:17,581 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:52:18,514 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:52:18,946 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-08 23:52:19,797 - logger_File -INFO - Adding an item to Wish list   failed
+2021-08-08 23:53:51,385 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-08 23:53:56,490 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:53:57,164 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:53:58,072 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:53:58,545 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-08 23:53:59,436 - logger_File -INFO - Adding an item to Wish list   failed
+2021-08-08 23:54:16,393 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-08 23:54:21,772 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:54:22,469 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:54:23,363 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:54:23,864 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-08 23:54:24,708 - logger_File -INFO - Adding an item to Wish list   failed
+2021-08-08 23:58:18,704 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-08 23:58:24,887 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:58:25,523 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:58:26,478 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:58:27,034 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-08 23:58:27,422 - logger_File -INFO - User see the message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2021-08-08 23:58:28,500 - logger_File -INFO - Adding an item to Wish list   passed
+2021-08-08 23:59:27,591 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-08-08 23:59:33,356 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:59:34,033 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:59:34,983 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:59:36,624 - logger_File -INFO - User click on MacBook item
+2021-08-08 23:59:37,173 - logger_File -INFO - User click add to Cart Macbutton
+2021-08-08 23:59:37,620 - logger_File -INFO - Success: you have added MacBook to your Shopping cart! is diplayed
+2021-08-08 23:59:42,073 - logger_File -INFO - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-08-08 23:59:42,442 - logger_File -INFO - User click on cart option
+2021-08-08 23:59:42,796 - logger_File -INFO - User clicked on remove button
+2021-08-08 23:59:43,144 - logger_File -INFO - The item is removed
+2021-08-08 23:59:44,001 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-08-08 23:59:44,011 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-08 23:59:48,482 - logger_File -INFO - Retail Website is opened
+2021-08-08 23:59:49,044 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-08 23:59:49,875 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-08 23:59:50,342 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-08 23:59:51,843 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-09 00:00:06,718 - logger_File -INFO - Product Comparison   failed
+2021-08-09 00:00:06,725 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-09 00:00:10,544 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:00:11,184 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:00:12,199 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:00:12,664 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-09 00:00:13,205 - logger_File -INFO - User see the message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2021-08-09 00:00:13,997 - logger_File -INFO - Adding an item to Wish list   passed
+2021-08-09 00:00:14,004 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 00:00:18,687 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:00:19,300 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:00:20,142 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:00:21,427 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-08-09 00:00:21,777 - logger_File -INFO - User see the price tag present on UI
+2021-08-09 00:00:22,558 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 00:13:21,059 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:13:26,391 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:13:27,023 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:13:28,354 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:13:28,873 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:13:30,866 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-09 00:13:31,802 - logger_File -INFO - Product Comparison   failed
+2021-08-09 00:14:47,937 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-08-09 00:14:52,256 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:14:53,138 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:14:53,800 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:14:53,934 - logger_File -INFO - user entered email
+2021-08-09 00:14:54,051 - logger_File -INFO - user entered password
+2021-08-09 00:14:55,182 - logger_File -INFO - user clicked on login button
+2021-08-09 00:15:00,431 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:15:01,160 - logger_File -INFO - Login to MyAccount   passed
+2021-08-09 00:15:01,169 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:15:04,787 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:15:05,471 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:15:07,125 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:15:07,238 - logger_File -INFO - user entered email
+2021-08-09 00:15:07,340 - logger_File -INFO - user entered password
+2021-08-09 00:15:08,310 - logger_File -INFO - user clicked on login button
+2021-08-09 00:15:13,583 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:15:14,296 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:15:14,300 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:15:17,615 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:15:18,240 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:15:18,895 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:15:18,994 - logger_File -INFO - user entered email
+2021-08-09 00:15:19,084 - logger_File -INFO - user entered password
+2021-08-09 00:15:20,028 - logger_File -INFO - user clicked on login button
+2021-08-09 00:15:25,308 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:15:26,098 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:15:26,106 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:15:29,007 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:15:29,730 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:15:31,598 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:15:31,738 - logger_File -INFO - user entered email
+2021-08-09 00:15:31,821 - logger_File -INFO - user entered password
+2021-08-09 00:15:33,194 - logger_File -INFO - user clicked on login button
+2021-08-09 00:15:50,619 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-08-09 00:15:58,216 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:15:59,064 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:16:00,093 - logger_File -INFO - user clicked on Register option
+2021-08-09 00:16:01,236 - logger_File -INFO - User filled the information form
+2021-08-09 00:16:01,336 - logger_File -INFO - user accepted privacy and policy
+2021-08-09 00:16:02,735 - logger_File -INFO - user clicked on continue button
+2021-08-09 00:16:03,032 - logger_File -INFO - user Account has been created
+2021-08-09 00:16:03,745 - logger_File -INFO - Register new user to Retail Website   passed
+2021-08-09 00:19:43,430 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:19:48,936 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:19:49,592 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:19:50,550 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:19:51,058 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:19:52,983 - logger_File -INFO - Product Comparison   failed
+2021-08-09 00:21:38,325 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:21:43,174 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:21:43,807 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:21:44,741 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:21:45,244 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:21:46,122 - logger_File -INFO - Product Comparison   failed
+2021-08-09 00:22:05,160 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:22:10,138 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:22:10,873 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:22:11,881 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:22:12,375 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:22:12,882 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-09 00:22:13,184 - logger_File -INFO - Success: You have added MacBook Air to your product comparison! is diplayed
+2021-08-09 00:22:13,928 - logger_File -INFO - User click on Product comparison link
+2021-08-09 00:22:14,287 - logger_File -INFO - User see Product Comparison Chart
+2021-08-09 00:22:15,122 - logger_File -INFO - Product Comparison   passed
+2021-08-09 00:24:54,311 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-08-09 00:24:59,522 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:25:00,223 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:25:01,250 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:25:02,525 - logger_File -INFO - User click on MacBook item
+2021-08-09 00:25:03,067 - logger_File -INFO - User click add to Cart Macbutton
+2021-08-09 00:25:03,514 - logger_File -INFO - Success: you have added MacBook to your Shopping cart! is diplayed
+2021-08-09 00:25:07,970 - logger_File -INFO - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-08-09 00:25:08,330 - logger_File -INFO - User click on cart option
+2021-08-09 00:25:08,722 - logger_File -INFO - User clicked on remove button
+2021-08-09 00:25:09,093 - logger_File -INFO - The item is removed
+2021-08-09 00:25:10,011 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-08-09 00:25:10,018 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:25:13,653 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:25:14,262 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:25:15,107 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:25:15,541 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:25:15,987 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-09 00:25:16,288 - logger_File -INFO - Success: You have added MacBook Air to your product comparison! is diplayed
+2021-08-09 00:25:16,796 - logger_File -INFO - User click on Product comparison link
+2021-08-09 00:25:17,042 - logger_File -INFO - User see Product Comparison Chart
+2021-08-09 00:25:17,803 - logger_File -INFO - Product Comparison   passed
+2021-08-09 00:25:17,810 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-09 00:25:21,444 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:25:22,029 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:25:22,931 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:25:23,298 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-09 00:25:23,698 - logger_File -INFO - User see the message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2021-08-09 00:25:24,406 - logger_File -INFO - Adding an item to Wish list   passed
+2021-08-09 00:25:24,414 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 00:25:28,012 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:25:28,588 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:25:29,470 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:25:30,882 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-08-09 00:25:31,248 - logger_File -INFO - User see the price tag present on UI
+2021-08-09 00:25:32,054 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 00:29:45,829 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-08-09 00:29:51,200 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:29:51,848 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:29:52,697 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:29:52,832 - logger_File -INFO - user entered email
+2021-08-09 00:29:53,257 - logger_File -INFO - user entered password
+2021-08-09 00:29:53,814 - logger_File -INFO - user clicked on login button
+2021-08-09 00:29:54,057 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:30:04,971 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   failed
+2021-08-09 00:30:04,978 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-08-09 00:30:09,431 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:30:09,983 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:30:10,817 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:30:10,955 - logger_File -INFO - user entered email
+2021-08-09 00:30:11,410 - logger_File -INFO - user entered password
+2021-08-09 00:30:12,484 - logger_File -INFO - user clicked on login button
+2021-08-09 00:30:12,719 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:30:21,563 - logger_File -INFO - Scenario Edit your account Information Started
+2021-08-09 00:36:32,737 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2021-08-09 00:36:38,797 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:36:39,759 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:36:40,508 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:36:40,656 - logger_File -INFO - user entered email
+2021-08-09 00:36:41,240 - logger_File -INFO - user entered password
+2021-08-09 00:36:42,074 - logger_File -INFO - user clicked on login button
+2021-08-09 00:36:42,498 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:36:43,415 - logger_File -INFO - user clicked on Register option
+2021-08-09 00:36:44,458 - logger_File -INFO - User filled out affiliate form with below information
+2021-08-09 00:36:45,193 - logger_File -INFO - user clicked on Register option
+2021-08-09 00:36:46,201 - logger_File -INFO - user clicked on Continue button1
+2021-08-09 00:36:46,539 - logger_File -INFO - user see success message
+2021-08-09 00:36:47,372 - logger_File -INFO - Register as an Affiliate user with Cheque Payment Method   passed
+2021-08-09 00:36:47,379 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2021-08-09 00:36:50,926 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:36:51,545 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:36:52,105 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:36:52,254 - logger_File -INFO - user entered email
+2021-08-09 00:36:52,717 - logger_File -INFO - user entered password
+2021-08-09 00:36:53,443 - logger_File -INFO - user clicked on login button
+2021-08-09 00:36:53,698 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:36:54,283 - logger_File -INFO - User clicked on Edit your affiliate informationlink
+2021-08-09 00:36:54,631 - logger_File -INFO - User clicked on Bank Transfer radio button
+2021-08-09 00:36:55,578 - logger_File -INFO - User filled out Bank information with below information
+2021-08-09 00:36:56,415 - logger_File -INFO - User clicked on Continue button2
+2021-08-09 00:36:56,718 - logger_File -INFO - User see success message
+2021-08-09 00:36:57,494 - logger_File -INFO - Edit your affiliate information from Cheque payment method to Bank Transfer   passed
+2021-08-09 00:36:57,499 - logger_File -INFO - Scenario Edit your account Information Started
+2021-08-09 00:37:01,188 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:37:01,819 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:37:02,518 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:37:02,654 - logger_File -INFO - user entered email
+2021-08-09 00:37:03,196 - logger_File -INFO - user entered password
+2021-08-09 00:37:03,945 - logger_File -INFO - user clicked on login button
+2021-08-09 00:37:04,239 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:37:05,121 - logger_File -INFO - User clicked on ‘Edit your account information’ link
+2021-08-09 00:37:05,700 - logger_File -INFO - User modified below information
+2021-08-09 00:37:06,169 - logger_File -INFO - User clicked on continue button3
+2021-08-09 00:37:06,332 - logger_File -INFO - User see success message2
+2021-08-09 00:37:07,006 - logger_File -INFO - Edit your account Information   passed
+2021-08-09 00:37:54,709 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-08-09 00:37:58,427 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:37:58,736 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:37:59,830 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:37:59,904 - logger_File -INFO - user entered email
+2021-08-09 00:37:59,974 - logger_File -INFO - user entered password
+2021-08-09 00:38:00,773 - logger_File -INFO - user clicked on login button
+2021-08-09 00:38:05,927 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:38:06,598 - logger_File -INFO - Login to MyAccount   passed
+2021-08-09 00:38:06,606 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:38:10,713 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:38:11,013 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:38:11,597 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:38:11,666 - logger_File -INFO - user entered email
+2021-08-09 00:38:11,726 - logger_File -INFO - user entered password
+2021-08-09 00:38:12,885 - logger_File -INFO - user clicked on login button
+2021-08-09 00:38:18,045 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:38:18,689 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:38:18,695 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:38:21,178 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:38:21,448 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:38:21,885 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:38:21,950 - logger_File -INFO - user entered email
+2021-08-09 00:38:22,003 - logger_File -INFO - user entered password
+2021-08-09 00:38:22,619 - logger_File -INFO - user clicked on login button
+2021-08-09 00:38:27,769 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:38:28,423 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:38:28,429 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:38:30,927 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:38:31,196 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:38:31,782 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:38:31,855 - logger_File -INFO - user entered email
+2021-08-09 00:38:31,910 - logger_File -INFO - user entered password
+2021-08-09 00:38:32,717 - logger_File -INFO - user clicked on login button
+2021-08-09 00:38:37,870 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:38:38,524 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:38:38,529 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-08-09 00:38:42,077 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:38:42,338 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:38:43,113 - logger_File -INFO - user clicked on Register option
+2021-08-09 00:38:43,731 - logger_File -INFO - User filled the information form
+2021-08-09 00:38:43,789 - logger_File -INFO - user accepted privacy and policy
+2021-08-09 00:38:44,334 - logger_File -INFO - user clicked on continue button
+2021-08-09 00:38:55,055 - logger_File -INFO - Register new user to Retail Website   failed
+2021-08-09 00:39:34,491 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-08-09 00:39:38,701 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:39:38,978 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:39:39,375 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:39:39,445 - logger_File -INFO - user entered email
+2021-08-09 00:39:39,499 - logger_File -INFO - user entered password
+2021-08-09 00:39:40,324 - logger_File -INFO - user clicked on login button
+2021-08-09 00:39:45,499 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:39:46,141 - logger_File -INFO - Login to MyAccount   passed
+2021-08-09 00:39:46,147 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:39:49,018 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:39:49,312 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:39:49,717 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:39:49,782 - logger_File -INFO - user entered email
+2021-08-09 00:39:49,834 - logger_File -INFO - user entered password
+2021-08-09 00:39:50,481 - logger_File -INFO - user clicked on login button
+2021-08-09 00:39:55,635 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:39:56,278 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:39:56,283 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:39:59,160 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:39:59,422 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:39:59,830 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:39:59,901 - logger_File -INFO - user entered email
+2021-08-09 00:39:59,959 - logger_File -INFO - user entered password
+2021-08-09 00:40:00,617 - logger_File -INFO - user clicked on login button
+2021-08-09 00:40:05,772 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:40:06,416 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:40:06,420 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:40:08,839 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:40:09,121 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:40:09,492 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:40:09,557 - logger_File -INFO - user entered email
+2021-08-09 00:40:09,612 - logger_File -INFO - user entered password
+2021-08-09 00:40:10,145 - logger_File -INFO - user clicked on login button
+2021-08-09 00:40:15,293 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:40:15,972 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:40:15,976 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-08-09 00:40:18,408 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:40:18,705 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:40:19,550 - logger_File -INFO - user clicked on Register option
+2021-08-09 00:40:20,165 - logger_File -INFO - User filled the information form
+2021-08-09 00:40:20,218 - logger_File -INFO - user accepted privacy and policy
+2021-08-09 00:40:21,123 - logger_File -INFO - user clicked on continue button
+2021-08-09 00:40:21,312 - logger_File -INFO - user Account has been created
+2021-08-09 00:40:21,947 - logger_File -INFO - Register new user to Retail Website   passed
+2021-08-09 00:43:45,349 - logger_File -INFO - Scenario Login to MyAccount Started
+2021-08-09 00:44:02,242 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:44:02,570 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:44:03,978 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:44:04,051 - logger_File -INFO - user entered email
+2021-08-09 00:44:04,119 - logger_File -INFO - user entered password
+2021-08-09 00:44:05,279 - logger_File -INFO - user clicked on login button
+2021-08-09 00:44:10,449 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:44:11,146 - logger_File -INFO - Login to MyAccount   passed
+2021-08-09 00:44:11,155 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:44:13,580 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:44:13,864 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:44:14,319 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:44:14,396 - logger_File -INFO - user entered email
+2021-08-09 00:44:14,465 - logger_File -INFO - user entered password
+2021-08-09 00:44:15,393 - logger_File -INFO - user clicked on login button
+2021-08-09 00:44:20,550 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:44:21,222 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:44:21,227 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:44:24,473 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:44:24,736 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:44:25,484 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:44:25,549 - logger_File -INFO - user entered email
+2021-08-09 00:44:25,606 - logger_File -INFO - user entered password
+2021-08-09 00:44:26,574 - logger_File -INFO - user clicked on login button
+2021-08-09 00:44:31,744 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:44:32,409 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:44:32,414 - logger_File -INFO - Scenario Login to MyAccount with Multiple users Started
+2021-08-09 00:44:47,180 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:44:47,452 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:44:48,010 - logger_File -INFO - User Clicked on Login
+2021-08-09 00:44:48,077 - logger_File -INFO - user entered email
+2021-08-09 00:44:48,147 - logger_File -INFO - user entered password
+2021-08-09 00:44:49,220 - logger_File -INFO - user clicked on login button
+2021-08-09 00:44:54,380 - logger_File -INFO - user logged to myAccount Dashboard
+2021-08-09 00:44:55,032 - logger_File -INFO - Login to MyAccount with Multiple users   passed
+2021-08-09 00:44:55,039 - logger_File -INFO - Scenario Register new user to Retail Website Started
+2021-08-09 00:44:57,771 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:44:58,043 - logger_File -INFO - User clicked on MyAccount
+2021-08-09 00:44:58,869 - logger_File -INFO - user clicked on Register option
+2021-08-09 00:44:59,483 - logger_File -INFO - User filled the information form
+2021-08-09 00:44:59,528 - logger_File -INFO - user accepted privacy and policy
+2021-08-09 00:45:00,314 - logger_File -INFO - user clicked on continue button
+2021-08-09 00:45:00,505 - logger_File -INFO - user Account has been created
+2021-08-09 00:45:01,166 - logger_File -INFO - Register new user to Retail Website   passed
+2021-08-09 00:45:35,873 - logger_File -INFO - Scenario User verify currency values change Started
+2021-08-09 00:45:39,606 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:45:39,956 - logger_File -INFO - User clicked on currency
+2021-08-09 00:45:40,562 - logger_File -INFO - User selected Euro currency
+2021-08-09 00:45:40,780 - logger_File -INFO - Currency value is changed to Euro
+2021-08-09 00:45:41,427 - logger_File -INFO - User verify currency values change   passed
+2021-08-09 00:45:41,432 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2021-08-09 00:45:44,259 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:45:44,603 - logger_File -INFO - User clicked on shopping cart1
+2021-08-09 00:45:44,853 - logger_File -INFO - User see 'Your shopping cart is empty!' message on display
+2021-08-09 00:45:45,507 - logger_File -INFO - User empty Shopping cart message displays   passed
+2021-08-09 00:45:58,880 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-08-09 00:46:36,630 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-08-09 00:46:36,635 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-08-09 00:46:40,349 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:46:40,705 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:46:41,363 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:46:42,463 - logger_File -INFO - User clicked ADD TO CART option on HPLP3065 
+2021-08-09 00:46:42,940 - logger_File -INFO - User selected quantity 1
+2021-08-09 00:46:43,198 - logger_File -INFO - User clicked add to Cart button
+2021-08-09 00:46:43,482 - logger_File -INFO - User can see a succes message for adding HPLP3065
+2021-08-09 00:46:48,209 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-08-09 00:46:48,215 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-08-09 00:46:52,421 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:46:52,778 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:46:53,452 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:46:54,608 - logger_File -INFO - User clicked ADD TO CART option on Canon EOS5D
+2021-08-09 00:46:55,094 - logger_File -INFO - User select red color from dropdown
+2021-08-09 00:46:55,474 - logger_File -INFO - User selected quantity 1
+2021-08-09 00:46:55,764 - logger_File -INFO - User clicked add to Cart buttonCanon
+2021-08-09 00:46:56,037 - logger_File -INFO - should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!
+2021-08-09 00:47:00,743 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-08-09 00:47:00,749 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-08-09 00:47:03,758 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:47:04,108 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:47:04,832 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:47:05,977 - logger_File -INFO - User clicked on Canon EOS 5D item
+2021-08-09 00:47:06,235 - logger_File -INFO - User clicked write a review link
+2021-08-09 00:47:06,618 - logger_File -INFO - User filled the review field
+2021-08-09 00:47:06,863 - logger_File -INFO - User clicked on continue button4
+2021-08-09 00:47:06,893 - logger_File -INFO - User can a success message
+2021-08-09 00:47:11,619 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-08-09 00:47:57,470 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2021-08-09 00:48:01,779 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:48:02,175 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:48:05,922 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:48:06,115 - logger_File -INFO - All items are displayed
+2021-08-09 00:48:06,756 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-08-09 00:48:06,763 - logger_File -INFO - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2021-08-09 00:48:10,055 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:48:10,405 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:48:11,575 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:48:12,874 - logger_File -INFO - User clicked ADD TO CART option on HPLP3065 
+2021-08-09 00:48:13,302 - logger_File -INFO - User selected quantity 1
+2021-08-09 00:48:13,564 - logger_File -INFO - User clicked add to Cart button
+2021-08-09 00:48:13,823 - logger_File -INFO - User can see a succes message for adding HPLP3065
+2021-08-09 00:48:18,543 - logger_File -INFO - User add HP LP 3065 from Desktops tab to the cart   passed
+2021-08-09 00:48:18,548 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2021-08-09 00:48:21,819 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:48:22,191 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:48:23,961 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:48:25,359 - logger_File -INFO - User clicked ADD TO CART option on Canon EOS5D
+2021-08-09 00:48:25,734 - logger_File -INFO - User select red color from dropdown
+2021-08-09 00:48:26,113 - logger_File -INFO - User selected quantity 1
+2021-08-09 00:48:26,395 - logger_File -INFO - User clicked add to Cart buttonCanon
+2021-08-09 00:48:26,660 - logger_File -INFO - should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!
+2021-08-09 00:48:31,370 - logger_File -INFO - User add Canon EOS 5D from Desktops tab to the cart   passed
+2021-08-09 00:48:31,376 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2021-08-09 00:48:35,078 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:48:35,447 - logger_File -INFO - User clicked on desktop tab
+2021-08-09 00:48:36,607 - logger_File -INFO - User clicked on Show all desktops
+2021-08-09 00:48:37,858 - logger_File -INFO - User clicked on Canon EOS 5D item
+2021-08-09 00:48:38,129 - logger_File -INFO - User clicked write a review link
+2021-08-09 00:48:38,578 - logger_File -INFO - User filled the review field
+2021-08-09 00:48:38,836 - logger_File -INFO - User clicked on continue button4
+2021-08-09 00:48:38,873 - logger_File -INFO - User can a success message
+2021-08-09 00:48:43,584 - logger_File -INFO - User add a review to Canon EOS 5D item in Desktops tab   passed
+2021-08-09 00:48:55,368 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-08-09 00:48:59,594 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:48:59,974 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:49:00,602 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:49:02,059 - logger_File -INFO - User click on MacBook item
+2021-08-09 00:49:02,369 - logger_File -INFO - User click add to Cart Macbutton
+2021-08-09 00:49:02,604 - logger_File -INFO - Success: you have added MacBook to your Shopping cart! is diplayed
+2021-08-09 00:49:06,901 - logger_File -INFO - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-08-09 00:49:07,133 - logger_File -INFO - User click on cart option
+2021-08-09 00:49:07,374 - logger_File -INFO - User clicked on remove button
+2021-08-09 00:49:07,588 - logger_File -INFO - The item is removed
+2021-08-09 00:49:12,326 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-08-09 00:49:12,331 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:49:15,974 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:49:16,369 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:49:17,074 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:49:17,366 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:49:17,679 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-09 00:49:17,885 - logger_File -INFO - Success: You have added MacBook Air to your product comparison! is diplayed
+2021-08-09 00:49:18,354 - logger_File -INFO - User click on Product comparison link
+2021-08-09 00:49:18,553 - logger_File -INFO - User see Product Comparison Chart
+2021-08-09 00:49:19,205 - logger_File -INFO - Product Comparison   passed
+2021-08-09 00:49:19,208 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-09 00:49:24,467 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:49:24,862 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:50:00,585 - logger_File -INFO - Adding an item to Wish list   failed
+2021-08-09 00:50:00,591 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 00:50:05,064 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:50:05,428 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:50:06,100 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:50:07,685 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-08-09 00:50:07,918 - logger_File -INFO - User see the price tag present on UI
+2021-08-09 00:50:12,623 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
+2021-08-09 00:50:16,346 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2021-08-09 00:50:22,209 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:50:22,575 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:50:24,438 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:50:26,759 - logger_File -INFO - User click on MacBook item
+2021-08-09 00:50:27,057 - logger_File -INFO - User click add to Cart Macbutton
+2021-08-09 00:50:27,307 - logger_File -INFO - Success: you have added MacBook to your Shopping cart! is diplayed
+2021-08-09 00:50:31,621 - logger_File -INFO - User should see ‘1 item(s)-602.00’ showed to the cart
+2021-08-09 00:50:31,850 - logger_File -INFO - User click on cart option
+2021-08-09 00:50:32,067 - logger_File -INFO - User clicked on remove button
+2021-08-09 00:50:32,286 - logger_File -INFO - The item is removed
+2021-08-09 00:50:37,018 - logger_File -INFO - Add and Remove a Mac book from Cart   passed
+2021-08-09 00:50:37,024 - logger_File -INFO - Scenario Product Comparison Started
+2021-08-09 00:50:40,337 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:50:40,697 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:50:41,291 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:50:41,639 - logger_File -INFO - User clicked on product comparison icon on ‘MacBook’
+2021-08-09 00:50:41,977 - logger_File -INFO - User click on product comparison icon on ‘MacBook Air
+2021-08-09 00:50:42,206 - logger_File -INFO - Success: You have added MacBook Air to your product comparison! is diplayed
+2021-08-09 00:50:42,693 - logger_File -INFO - User click on Product comparison link
+2021-08-09 00:50:42,877 - logger_File -INFO - User see Product Comparison Chart
+2021-08-09 00:50:43,518 - logger_File -INFO - Product Comparison   passed
+2021-08-09 00:50:43,523 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2021-08-09 00:50:46,600 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:50:46,974 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:50:48,032 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:50:48,313 - logger_File -INFO - User clicked on heart icon to add ‘Sony VaIO’ laptop to wish list
+2021-08-09 00:50:48,577 - logger_File -INFO - User see the message ‘You must login or create an account to save Sony VAIO to your wish list!’
+2021-08-09 00:50:49,230 - logger_File -INFO - Adding an item to Wish list   passed
+2021-08-09 00:50:49,236 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2021-08-09 00:50:52,216 - logger_File -INFO - Retail Website is opened
+2021-08-09 00:50:52,573 - logger_File -INFO - User clicked on Laptop &NoteBook tab 
+2021-08-09 00:50:53,095 - logger_File -INFO - User clicked on Show all Laptop &NoteBook
+2021-08-09 00:50:54,336 - logger_File -INFO - User clicked on ‘MacBook Pro’ item
+2021-08-09 00:50:54,575 - logger_File -INFO - User see the price tag present on UI
+2021-08-09 00:50:59,299 - logger_File -INFO - Validate the price of MacBook Pro is 2000   passed
